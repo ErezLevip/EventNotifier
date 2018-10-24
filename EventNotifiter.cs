@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace EventNotifier
 {
-    public class EventNotifiter : IEventNotifier, IDisposable
+    public class EventNotifier : IEventNotifier, IDisposable
     {
         private static CancellationTokenSource _cancellationTokenSource = new CancellationTokenSource();
         private static ConcurrentQueue<NotificationWrapper> _notificationsQueue = new ConcurrentQueue<NotificationWrapper>();
@@ -15,12 +15,12 @@ namespace EventNotifier
         private static readonly object _lockObj = new object();
         private static int _pollingIntervalMiliseconeds = 200;
 
-        public EventNotifiter(int pollingIntervalMiliseconds = 200)
+        public EventNotifier(int pollingIntervalMiliseconds = 200)
         {
             _pollingIntervalMiliseconeds = pollingIntervalMiliseconds;
         }
 
-        static EventNotifiter()
+        static EventNotifier()
         {
             StartNotificationProcessing();
         }

@@ -10,7 +10,7 @@ namespace Microsoft.Extensions.DependencyInjection
     {
         public static IServiceCollection AddEventNotifier(this IServiceCollection services)
         {
-            return services.AddSingleton<IEventNotifier, EventNotifiter>();
+            return services.AddSingleton<IEventNotifier, EventNotifier>();
         }
     }
 }

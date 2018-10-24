@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2019
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventNotifier", "EventNotifier\EventNotifier.csproj", "{57C8BFA5-6BFD-418E-B00D-23A36DF5CF84}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventNotifier", "EventNotifier.csproj", "{57C8BFA5-6BFD-418E-B00D-23A36DF5CF84}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
