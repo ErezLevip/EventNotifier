@@ -30,12 +30,12 @@ namespace EventNotifier
             _notificationsQueue.Enqueue(NotificationWrapper.Create<T>(message));
         }
 
-        public void Subscribe<T>(Action<T> onNewMmessage) where T : Notification
+        public void Subscribe<T>(Action<T> onNewMessage) where T : Notification
         {
             var messageType = typeof(T);
             if (_subscribers.TryGetValue(messageType, out var subscribersBag))
             {
-                subscribersBag.Add((Action<Notification>)onNewMmessage);
+                subscribersBag.Add((Action<Notification>)onNewMessage);
             }
             else
             {
@@ -43,13 +43,13 @@ namespace EventNotifier
                 {
                     if (_subscribers.TryGetValue(messageType, out subscribersBag))
                     {
-                        subscribersBag.Add((Action<Notification>)onNewMmessage);
+                        subscribersBag.Add((Action<Notification>)onNewMessage);
                     }
                     else
                     {
                         subscribersBag = new ConcurrentBag<Action<Notification>>
                         {
-                            ConvertAction(onNewMmessage)
+                            ConvertAction(onNewMessage)
                         };
                         _subscribers.TryAdd(typeof(T), subscribersBag);
                     }
