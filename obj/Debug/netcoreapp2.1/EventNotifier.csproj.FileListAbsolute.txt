@@ -1,0 +1,9 @@
+C:\Users\Mechanic\Documents\Visual Studio 2017\Projects\MicrosvcA\GlobalInfrastructure\bin\Debug\netcoreapp2.1\EventNotifier.deps.json
+C:\Users\Mechanic\Documents\Visual Studio 2017\Projects\MicrosvcA\GlobalInfrastructure\bin\Debug\netcoreapp2.1\EventNotifier.dll
+C:\Users\Mechanic\Documents\Visual Studio 2017\Projects\MicrosvcA\GlobalInfrastructure\bin\Debug\netcoreapp2.1\EventNotifier.pdb
+C:\Users\Mechanic\Documents\Visual Studio 2017\Projects\MicrosvcA\GlobalInfrastructure\obj\Debug\netcoreapp2.1\EventNotifier.csprojAssemblyReference.cache
+C:\Users\Mechanic\Documents\Visual Studio 2017\Projects\MicrosvcA\GlobalInfrastructure\obj\Debug\netcoreapp2.1\EventNotifier.csproj.CoreCompileInputs.cache
+C:\Users\Mechanic\Documents\Visual Studio 2017\Projects\MicrosvcA\GlobalInfrastructure\obj\Debug\netcoreapp2.1\EventNotifier.AssemblyInfoInputs.cache
+C:\Users\Mechanic\Documents\Visual Studio 2017\Projects\MicrosvcA\GlobalInfrastructure\obj\Debug\netcoreapp2.1\EventNotifier.AssemblyInfo.cs
+C:\Users\Mechanic\Documents\Visual Studio 2017\Projects\MicrosvcA\GlobalInfrastructure\obj\Debug\netcoreapp2.1\EventNotifier.dll
+C:\Users\Mechanic\Documents\Visual Studio 2017\Projects\MicrosvcA\GlobalInfrastructure\obj\Debug\netcoreapp2.1\EventNotifier.pdb

@@ -1,0 +1,9 @@
+C:\Users\Mechanic\Documents\Visual Studio 2017\Projects\MicrosvcA\GlobalInfrastructure\bin\Debug\netcoreapp2.1\GlobalInfrastructure.deps.json
+C:\Users\Mechanic\Documents\Visual Studio 2017\Projects\MicrosvcA\GlobalInfrastructure\bin\Debug\netcoreapp2.1\GlobalInfrastructure.dll
+C:\Users\Mechanic\Documents\Visual Studio 2017\Projects\MicrosvcA\GlobalInfrastructure\bin\Debug\netcoreapp2.1\GlobalInfrastructure.pdb
+C:\Users\Mechanic\Documents\Visual Studio 2017\Projects\MicrosvcA\GlobalInfrastructure\obj\Debug\netcoreapp2.1\GlobalInfrastructure.csprojAssemblyReference.cache
+C:\Users\Mechanic\Documents\Visual Studio 2017\Projects\MicrosvcA\GlobalInfrastructure\obj\Debug\netcoreapp2.1\GlobalInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Mechanic\Documents\Visual Studio 2017\Projects\MicrosvcA\GlobalInfrastructure\obj\Debug\netcoreapp2.1\GlobalInfrastructure.AssemblyInfoInputs.cache
+C:\Users\Mechanic\Documents\Visual Studio 2017\Projects\MicrosvcA\GlobalInfrastructure\obj\Debug\netcoreapp2.1\GlobalInfrastructure.AssemblyInfo.cs
+C:\Users\Mechanic\Documents\Visual Studio 2017\Projects\MicrosvcA\GlobalInfrastructure\obj\Debug\netcoreapp2.1\GlobalInfrastructure.dll
+C:\Users\Mechanic\Documents\Visual Studio 2017\Projects\MicrosvcA\GlobalInfrastructure\obj\Debug\netcoreapp2.1\GlobalInfrastructure.pdb
